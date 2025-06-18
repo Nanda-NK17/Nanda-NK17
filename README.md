@@ -10,8 +10,12 @@ I'm a passionate Business Analyst with expertise in SQL, Tableau, and Excel, cur
 
 ## 🔥 What I'm Working On
 
-- **Datawarehouse Project**  
-  Building a robust, scalable data warehouse to empower business intelligence and analytics. This project focuses on optimizing data pipelines, improving reporting, and making high-quality data accessible for decision-makers.
+- **SQL EDA Project**
+  
+- **Datawarehouse Project**
+
+- **Advanced data analysis Project**
+ 
 
 ## 🛠️ Skills
 
